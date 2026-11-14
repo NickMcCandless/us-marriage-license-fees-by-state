@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below, with a link to the guide page."
+type: dataset
+title: "Marriage license fees, waiting periods and validity by U.S. state"
+abstract: "The marriage license fee, waiting period and how long a license is valid in the 50 states and the District of Columbia, restated from official state and county pages, with the page and the date it was read."
+authors:
+  - name: "Wedding Remedy"
+    website: "https://weddingremedy.com/"
+url: "https://weddingremedy.com/guides/marriage-license"
+repository: "https://github.com/NickMcCandless/us-marriage-license-fees-by-state"
+date-released: "2026-11-12"
+license: CC-BY-4.0
+keywords:
+  - marriage license
+  - marriage license fees
+  - waiting period
+  - united states
+  - open data
+preferred-citation:
+  type: data
+  title: "Marriage license fees, waiting periods and validity by U.S. state"
+  authors:
+    - name: "Wedding Remedy"
+      website: "https://weddingremedy.com/"
+  publisher:
+    name: "Eltherion, LLC"
+  year: 2026
+  date-released: "2026-11-12"
+  url: "https://weddingremedy.com/guides/marriage-license"
+  notes: "Restated from official state and county pages. Last verified November 12, 2026."
